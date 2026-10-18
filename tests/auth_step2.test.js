@@ -4,7 +4,6 @@ const fs = require('fs');
 const path = require('path');
 const { app, server } = require('../src/server');
 const config = require('../src/config');
-const { redis, pubClient, subClient } = require('../src/redis/client');
 
 describe('Step 2: Authentication and Logging Verification', () => {
   let port;
@@ -18,11 +17,12 @@ describe('Step 2: Authentication and Logging Verification', () => {
   });
 
   afterAll(async () => {
+    // Close socket.io first so 'disconnecting' presence handlers can finish,
+    // then close the HTTP server. Redis is cleaned up by jest --forceExit.
+    const { io } = require('../src/server');
+    await new Promise((resolve) => io.close(resolve));
     await new Promise((resolve) => serverInstance.close(resolve));
-    await redis.quit();
-    await pubClient.quit();
-    await subClient.quit();
-  });
+  }, 15000);
 
   test('Rejects socket connection without token', (done) => {
     const socket = Client(`http://localhost:${port}`, {

@@ -1,0 +1,25 @@
+{
+  "clients": 500,
+  "connectedOk": 500,
+  "connectFailed": 0,
+  "messagesSent": 2500,
+  "messagesAcked": 2500,
+  "messagesRejected": 0,
+  "deliveriesReceived": 125000,
+  "sendRatePerSec": 83.3,
+  "deliveryRatePerSec": 4163.2,
+  "connectMs": {
+    "p50": 260.3,
+    "p95": 718.8
+  },
+  "ackMs": {
+    "p50": 6.9,
+    "p95": 17.6,
+    "p99": 26
+  },
+  "deliveryMs": {
+    "p50": 5,
+    "p95": 15,
+    "p99": 22
+  }
+}

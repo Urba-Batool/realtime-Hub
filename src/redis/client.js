@@ -15,5 +15,6 @@ const createClient = (name) => {
 const redis = createClient('main');
 const pubClient = createClient('pub');
 const subClient = pubClient.duplicate();
+subClient.on('error', (err) => logger.error('redis_error', { client: 'sub', error: err.message }));
 
 module.exports = { redis, pubClient, subClient };

@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\Admin\\realtime-hub\\logs\\.df29e2321a6d4ecc6bf8cf8d07af327d3a783a52-audit.json",
+    "files": [
+        {
+            "date": 1791828363927,
+            "name": "C:\\Users\\Admin\\realtime-hub\\logs\\errors-2026-10-12.log",
+            "hash": "63bc1f08478a99ca4a8b9d085ef5cb46ba64747dab127d701c7f770db66651f3"
+        },
+        {
+            "date": 1791831601927,
+            "name": "C:\\Users\\Admin\\realtime-hub\\logs\\errors-2026-10-13.log",
+            "hash": "320260e6feeb120c58a0a82c1a01f0c75d0e127d3c8185fbb3c4cc7baee55cfe"
+        },
+        {
+            "date": 1791918024388,
+            "name": "C:\\Users\\Admin\\realtime-hub\\logs\\errors-2026-10-14.log",
+            "hash": "0a17672e631b9f6785f73c6a82a0eb2ffab45e21eec9ce88067169d2d9b4c4fb"
+        }
+    ],
+    "hashType": "sha256"
+}

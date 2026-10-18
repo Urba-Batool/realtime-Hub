@@ -1,0 +1,736 @@
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:24.699Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:24.707Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:24.708Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:24.828Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:24.830Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:24.831Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:25.051Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:25.052Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:25.054Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:25.377Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:25.379Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:25.380Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:25.796Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:25.805Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:25.806Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:26.330Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:26.331Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:26.335Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:26.942Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:26.943Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:26.943Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:27.665Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:27.667Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:27.667Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:28.493Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:28.494Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:28.495Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:29.438Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:29.439Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:29.439Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:30.460Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:30.461Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:30.468Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:30.555Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:30.564Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:30.566Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:30.676Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:30.677Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:30.680Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:30.891Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:30.892Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:30.894Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:31.220Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:31.224Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:31.228Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:31.587Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:31.588Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:31.589Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:31.635Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:31.636Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:31.637Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:32.154Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:32.154Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:32.155Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:32.762Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:32.763Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:32.764Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:32.837Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:32.838Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:32.839Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:33.488Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:33.489Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:33.490Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:34.154Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:34.155Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:34.156Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:34.320Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:34.320Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:34.321Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:35.245Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:35.245Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:35.247Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:35.577Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:35.578Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:35.580Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:35.618Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:35.629Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:35.631Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:35.732Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:35.779Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:35.780Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:35.937Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:35.999Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:36.001Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:36.246Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:36.275Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:36.277Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:36.278Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:36.315Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:36.316Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:36.664Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:36.731Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:36.732Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:37.114Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:37.116Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:37.117Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:37.205Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:37.245Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:37.246Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:37.405Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:37.405Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:37.408Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:37.815Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:37.863Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:00:37.865Z"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","level":"error","message":"presence_connect_failed","timestamp":"2026-10-13T19:01:58.408Z"}
+{"client":"sub","error":"read ECONNRESET","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:02.071Z"}
+{"client":"pub","error":"read ECONNRESET","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:02.073Z"}
+{"client":"main","error":"read ECONNRESET","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:02.074Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:02.185Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:02.187Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:02.188Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:02.388Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:02.391Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:02.392Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:02.710Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:02.711Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:02.714Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:03.117Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:03.117Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:03.118Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:03.633Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:03.634Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:03.635Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:04.240Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:04.241Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:04.241Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:04.959Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:04.959Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:04.960Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:05.787Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:05.787Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:05.788Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:06.703Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:06.704Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:06.705Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:07.713Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:07.715Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:07.716Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:08.818Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:08.819Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:08.820Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:10.028Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:10.029Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:10.029Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:11.335Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:11.336Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:11.336Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:12.749Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:12.750Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:12.750Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:14.267Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:14.267Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:14.268Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:15.875Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:15.876Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:15.877Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:17.597Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:17.598Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:17.599Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:19.405Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:19.405Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:19.406Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:21.311Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:21.312Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:21.313Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:23.339Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:23.341Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:23.342Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:25.449Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:25.456Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:25.458Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:27.654Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:27.671Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:27.672Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:29.971Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:29.978Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:29.980Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:32.393Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:32.394Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:32.396Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:34.915Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:34.918Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:34.927Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:37.523Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:37.540Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:37.540Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:40.229Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:40.246Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:40.247Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:43.046Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:43.058Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:43.058Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:45.961Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:45.963Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:45.964Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:48.972Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:48.973Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:02:48.974Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:47.061Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:47.067Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:47.069Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:47.179Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:47.181Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:47.183Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:47.395Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:47.397Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:47.398Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:47.713Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:47.714Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:47.715Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:48.133Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:48.134Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:48.134Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:48.640Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:48.640Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:48.641Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:49.255Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:49.256Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:49.257Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:49.965Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:49.966Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:49.967Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:50.782Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:50.783Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:50.783Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:51.700Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:51.700Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:51.701Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:52.263Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:52.268Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:52.268Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:52.400Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:52.402Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:52.404Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:52.614Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:52.614Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:52.616Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:52.712Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:52.713Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:52.714Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:52.923Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:52.924Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:52.925Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:53.339Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:53.340Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:53.342Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:53.818Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:53.819Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:53.819Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:53.862Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:53.863Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:53.863Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:54.480Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:54.480Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:54.481Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:55.033Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:55.033Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:55.034Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:55.198Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:55.198Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:55.199Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:56.008Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:56.008Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:56.009Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:56.342Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:56.342Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:56.344Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:56.919Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:56.920Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:56.922Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:57.512Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:57.516Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:57.518Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:57.617Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:57.635Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:57.636Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:57.756Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:57.757Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:57.758Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:57.832Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:57.851Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:57.852Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:57.932Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:57.933Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:57.933Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:58.147Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:58.165Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:58.166Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:58.559Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:58.577Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:58.578Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:59.046Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:59.047Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:59.048Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:59.076Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:59.094Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:59.094Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:59.274Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:59.275Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:59.275Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:59.688Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:59.705Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:03:59.706Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:04:00.268Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:04:00.269Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:04:00.270Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:04:00.391Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:04:00.423Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:04:00.423Z"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","level":"error","message":"presence_connect_failed","timestamp":"2026-10-13T19:06:24.778Z"}
+{"client":"sub","error":"read ECONNRESET","level":"error","message":"redis_error","timestamp":"2026-10-13T19:06:28.373Z"}
+{"client":"pub","error":"read ECONNRESET","level":"error","message":"redis_error","timestamp":"2026-10-13T19:06:28.374Z"}
+{"client":"main","error":"read ECONNRESET","level":"error","message":"redis_error","timestamp":"2026-10-13T19:06:28.375Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:06:28.479Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:06:28.481Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:06:28.482Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:06:28.690Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:06:28.690Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:06:28.691Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:06:29.003Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:06:29.003Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:06:29.004Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:06:29.409Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:06:29.410Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:06:29.411Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:06:29.921Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:06:29.922Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:06:29.922Z"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","level":"error","message":"presence_connect_failed","timestamp":"2026-10-13T19:06:35.749Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:24.676Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:24.685Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:24.686Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:24.801Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:24.803Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:24.804Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:25.016Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:25.017Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:25.019Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:25.324Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:25.326Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:25.327Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:25.739Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:25.740Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:25.742Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:26.251Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:26.253Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:26.255Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:26.868Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:26.870Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:26.871Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:27.576Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:27.578Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:27.580Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:28.384Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:28.386Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:28.388Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:29.294Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:29.296Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:29.298Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:30.899Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:30.907Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:30.904Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:30.906Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:30.909Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:30.911Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:31.030Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:31.032Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:31.033Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:31.251Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:31.252Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:31.254Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:31.561Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:31.562Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:08:31.564Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:13.013Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:13.026Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:13.028Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:13.147Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:13.149Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:13.151Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:13.366Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:13.367Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:13.368Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:13.679Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:13.681Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:13.682Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:14.084Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:14.086Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:14.087Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:14.594Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:14.596Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:14.598Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:15.211Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:15.213Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:15.214Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:15.923Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:15.925Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:15.927Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:16.740Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:16.741Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:16.742Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:17.652Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:17.653Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:17.655Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:19.085Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:19.092Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:19.090Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:19.091Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:19.094Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:19.095Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:19.214Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:19.215Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:19.217Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:19.436Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:19.438Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:19.440Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:19.752Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:19.753Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:09:19.755Z"}
+{"client":"pub","error":"read ECONNRESET","level":"error","message":"redis_error","timestamp":"2026-10-13T19:12:53.624Z"}
+{"client":"main","error":"read ECONNRESET","level":"error","message":"redis_error","timestamp":"2026-10-13T19:12:53.626Z"}
+{"client":"sub","error":"read ECONNRESET","level":"error","message":"redis_error","timestamp":"2026-10-13T19:12:53.627Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:12:53.734Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:12:53.735Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:12:53.736Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:12:53.953Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:12:53.955Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:12:53.956Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:12:54.264Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:12:54.265Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:12:54.266Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:12:54.674Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:12:54.676Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:12:54.677Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:12:55.179Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:12:55.181Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:12:55.181Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:23.305Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:23.318Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:23.321Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:23.435Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:23.439Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:23.442Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:23.653Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:23.655Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:23.658Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:23.969Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:23.975Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:23.979Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:24.390Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:24.391Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:24.394Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:24.897Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:24.900Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:24.903Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:25.503Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:25.506Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:25.508Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:26.212Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:26.213Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:26.214Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:27.023Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:27.024Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:27.026Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:27.942Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:27.944Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:27.946Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:29.523Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:29.535Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:29.530Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:29.532Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:29.537Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:29.539Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:29.664Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:29.667Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:29.669Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:29.884Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:29.885Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:29.886Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:30.197Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:30.200Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T19:13:30.205Z"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:23:45.499Z","userId":"u_urba"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:private","level":"error","message":"handler_error","timestamp":"2026-10-13T19:23:45.815Z","userId":"u_urba"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:25:48.159Z","userId":"u_urba"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:26:05.265Z","userId":"u_urba"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:26:12.712Z","userId":"u_urba"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:26:39.754Z","userId":"u_urba"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:27:08.068Z","userId":"u_urba"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:28:16.548Z","userId":"u_urba"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:28:36.057Z","userId":"u_urba"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:29:03.345Z","userId":"u_urba"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:30:29.685Z","userId":"u_urba"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:30:47.022Z","userId":"u_urba"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:31:31.457Z","userId":"u_urba"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:31:46.284Z","userId":"u_urba"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:32:02.704Z","userId":"u_urba"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:32:30.231Z","userId":"u_urba"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:34:02.591Z","userId":"u_urba"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:34:15.857Z","userId":"u_urba"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:38:34.502Z","userId":"u_urba"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:39:11.411Z","userId":"u_urba"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:39:16.037Z","userId":"u_urba"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:42:17.841Z","userId":"u_alice_37zuw"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:42:17.854Z","userId":"u_alice_37zuw"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:42:17.857Z","userId":"u_alice_37zuw"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:42:17.876Z","userId":"u_carol_37zuw"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:private","level":"error","message":"handler_error","timestamp":"2026-10-13T19:42:17.882Z","userId":"u_alice_37zuw"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:42:17.919Z","userId":"u_dave_37zuw"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:42:17.921Z","userId":"u_dave_37zuw"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:42:17.922Z","userId":"u_dave_37zuw"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:42:17.924Z","userId":"u_dave_37zuw"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:42:17.926Z","userId":"u_dave_37zuw"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:42:17.927Z","userId":"u_dave_37zuw"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:42:17.929Z","userId":"u_dave_37zuw"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:42:17.930Z","userId":"u_dave_37zuw"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:42:17.932Z","userId":"u_dave_37zuw"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:42:17.933Z","userId":"u_dave_37zuw"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:42:17.934Z","userId":"u_dave_37zuw"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:42:17.936Z","userId":"u_dave_37zuw"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:42:17.938Z","userId":"u_dave_37zuw"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:42:17.939Z","userId":"u_dave_37zuw"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:42:17.941Z","userId":"u_dave_37zuw"}
+{"client":"sub","error":"read ECONNRESET","level":"error","message":"redis_error","timestamp":"2026-10-13T19:42:19.291Z"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:47:02.204Z","userId":"u_urba"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:49:13.484Z","userId":"u_alice_3gwli"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:49:13.494Z","userId":"u_alice_3gwli"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:49:13.497Z","userId":"u_alice_3gwli"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:49:13.517Z","userId":"u_carol_3gwli"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:private","level":"error","message":"handler_error","timestamp":"2026-10-13T19:49:13.522Z","userId":"u_alice_3gwli"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:49:13.555Z","userId":"u_dave_3gwli"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:49:13.557Z","userId":"u_dave_3gwli"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:49:13.558Z","userId":"u_dave_3gwli"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:49:13.560Z","userId":"u_dave_3gwli"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:49:13.561Z","userId":"u_dave_3gwli"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:49:13.563Z","userId":"u_dave_3gwli"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:49:13.566Z","userId":"u_dave_3gwli"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:49:13.568Z","userId":"u_dave_3gwli"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:49:13.569Z","userId":"u_dave_3gwli"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:49:13.570Z","userId":"u_dave_3gwli"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:49:13.571Z","userId":"u_dave_3gwli"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:49:13.573Z","userId":"u_dave_3gwli"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:49:13.574Z","userId":"u_dave_3gwli"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:49:13.575Z","userId":"u_dave_3gwli"}
+{"error":"EXECABORT Transaction discarded because of previous errors.","event":"message:send","level":"error","message":"handler_error","timestamp":"2026-10-13T19:49:13.577Z","userId":"u_dave_3gwli"}
+{"error":"listen EADDRINUSE: address already in use :::3000","level":"error","message":"uncaught_exception","timestamp":"2026-10-13T19:53:59.131Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:48.921Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:48.931Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:48.932Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:49.054Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:49.064Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:49.069Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:49.282Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:49.286Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:49.289Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:49.603Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:49.613Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:49.619Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:50.029Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:50.032Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:50.037Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:50.542Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:50.544Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:50.548Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:51.167Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:51.171Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:51.180Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:51.888Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:51.890Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:51.892Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:52.707Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:52.711Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:52.716Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:53.625Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:53.630Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:27:53.637Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:04.655Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:04.666Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:04.662Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:04.664Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:04.668Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:04.670Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:05.098Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:05.100Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:05.101Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:05.305Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:05.307Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:05.309Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:05.612Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:05.616Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:05.621Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:05.800Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:05.804Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:05.807Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:06.374Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:06.383Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:06.381Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:06.382Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:06.385Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:06.386Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:06.498Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:06.500Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:06.502Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:06.723Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:06.730Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:06.732Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:06.896Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:06.899Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:06.900Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:07.019Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:07.020Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:07.021Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:07.041Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:07.042Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:07.045Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:07.464Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:07.466Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:07.467Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:07.516Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:07.518Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:07.520Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:07.973Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:07.977Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:07.979Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:08.232Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:08.234Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:08.238Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:08.362Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:08.364Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:08.368Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:08.603Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:08.606Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:08.610Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:09.047Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:09.049Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:09.050Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:09.321Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:09.323Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:09.325Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:09.802Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:09.805Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:09.812Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:09.961Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:09.963Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:09.965Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:10.127Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:10.130Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:10.132Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:10.986Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:10.993Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:10.999Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:11.050Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:11.057Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:11.063Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:11.332Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:11.339Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:11.343Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:12.066Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:12.076Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:12.081Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:12.117Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:12.123Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:12.130Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:12.964Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:12.970Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:12.975Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:13.177Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:13.188Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:13.198Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:13.323Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:13.352Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:13.355Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:14.394Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:14.404Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:14.415Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:14.632Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:14.665Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:14.673Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:14.681Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:14.697Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:14.702Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:15.705Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:15.714Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:15.728Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:16.048Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:16.090Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:16.095Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:16.492Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:16.515Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:16.516Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:17.121Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:17.128Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:17.138Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:17.574Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:17.609Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:17.616Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:18.402Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:18.443Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:18.447Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:18.641Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:18.646Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:18.656Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:19.186Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:19.220Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:19.226Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:20.263Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:20.269Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:20.272Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:20.417Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:20.455Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:20.456Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:20.898Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:20.926Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:20.976Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:21.984Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:21.987Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:21.989Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:22.532Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:22.564Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:22.566Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:22.705Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:22.738Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:22.905Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:23.801Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:23.803Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:23.804Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:24.619Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:24.648Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:24.742Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:24.799Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:24.802Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:24.826Z"}
+{"client":"sub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:25.716Z"}
+{"client":"pub","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:25.718Z"}
+{"client":"main","error":"","level":"error","message":"redis_error","timestamp":"2026-10-13T20:28:25.720Z"}

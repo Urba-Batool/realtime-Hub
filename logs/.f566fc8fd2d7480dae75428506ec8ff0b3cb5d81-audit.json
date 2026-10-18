@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "c:\\Users\\Admin\\realtime-hub\\logs\\.f566fc8fd2d7480dae75428506ec8ff0b3cb5d81-audit.json",
+    "files": [
+        {
+            "date": 1791917079065,
+            "name": "c:\\Users\\Admin\\realtime-hub\\logs\\transactions-2026-10-13.log",
+            "hash": "844b829c779778885066bbf9f94221b3d0af3e84a2b74963db34132c19cb80be"
+        }
+    ],
+    "hashType": "sha256"
+}

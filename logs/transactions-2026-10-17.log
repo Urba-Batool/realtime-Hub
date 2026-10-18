@@ -1,0 +1,3 @@
+{"client":"main","level":"info","message":"redis_connected","timestamp":"2026-10-17T09:11:02.656Z"}
+{"client":"pub","level":"info","message":"redis_connected","timestamp":"2026-10-17T09:11:02.664Z"}
+{"level":"info","message":"server_started","port":3000,"timestamp":"2026-10-17T09:11:02.697Z"}
